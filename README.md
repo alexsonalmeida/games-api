@@ -8,7 +8,7 @@ Representa os jogos eletrônicos disponíveis na plataforma RAWG.
 - `released`: Data de lançamento  
 - `rating`: Nota média dos usuários  
 - `ratings_count`: Quantidade de avaliações recebidas  
-- `background_image`: URL da imagem de fundo do jogo  
+- `image_background`: URL da imagem de fundo do jogo  
 - `platforms`: Plataformas em que o jogo está disponível (ex: PC, PS5)  
 - `genres`: Lista de gêneros do jogo (ex: Action, RPG)  
 - `tags`: Lista de tags associadas (ex: Multiplayer, Indie)
@@ -25,7 +25,7 @@ Representa criadores envolvidos na produção de jogos (desenvolvedores, diretor
 - `slug`: Nome formatado para URL  
 - `image`: URL da foto do criador (se disponível)  
 - `games_count`: Número de jogos relacionados ao criador  
-- `image_background`: Imagem de fundo relacionada  
+- `rating`: Imagem de fundo relacionada  
 - `positions`: Lista de funções exercidas (ex: Designer, Developer)  
 - `description`: Biografia ou descrição do criador  
 - `games`: Lista de jogos mais populares feitos por ele
