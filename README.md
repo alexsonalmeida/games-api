@@ -15,20 +15,20 @@ Representa os jogos eletrônicos disponíveis na plataforma RAWG.
 
 ---
 
-## 🔸 Tabela: `genres`
+## 🔸 Tabela: `creators`
 
-Representa os gêneros dos jogos eletrônicos.
+Representa criadores envolvidos na produção de jogos (desenvolvedores, diretores, artistas, etc).
 
 **Atributos:**
 
-- `name`: Nome do gênero  
+- `name`: Nome do criador  
 - `slug`: Nome formatado para URL  
-- `games_count`: Número de jogos associados ao gênero  
-- `image_background`: Imagem ilustrativa  
-- `description`: Descrição do gênero (obtida por chamada detalhada)  
-- `language`: Idioma padrão do gênero  
-- `games`: Lista de jogos populares desse gênero  
-- `updated`: Data da última atualização do gênero
+- `image`: URL da foto do criador (se disponível)  
+- `games_count`: Número de jogos relacionados ao criador  
+- `image_background`: Imagem de fundo relacionada  
+- `positions`: Lista de funções exercidas (ex: Designer, Developer)  
+- `description`: Biografia ou descrição do criador  
+- `games`: Lista de jogos mais populares feitos por ele
 
 ---
 
@@ -44,7 +44,7 @@ Representa as plataformas (consoles, PCs, etc) onde os jogos são lançados.
 - `image_background`: Imagem de fundo ilustrativa  
 - `year_start`: Ano de início da plataforma  
 - `year_end`: Ano de término (se aplicável)  
-- `platform_type`: Tipo de plataforma (ex: console, PC, mobile)  
+- `description`: Descrição da plataforma  
 - `games`: Lista de jogos mais populares da plataforma
 
 ---
@@ -56,27 +56,26 @@ Representa as lojas digitais onde os jogos podem ser comprados.
 **Atributos:**
 
 - `name`: Nome da loja  
-- `slug`: Nome formatado para URL  
 - `domain`: Domínio da loja (ex: store.steampowered.com)  
 - `games_count`: Quantidade de jogos disponíveis na loja  
 - `image_background`: Imagem de fundo da loja  
-- `description`: Breve descrição da loja (via detalhes)  
-- `games`: Lista de jogos populares na loja  
-- `updated`: Data da última atualização da loja
-
+- `foundation_data`: Data de fundação da loja
+- `location`: País em que a loja foi fundada
+- `latitude`: latitude da sede da loja
+- `longitude`: longitude da sede da loja
 ---
 
-## 🔸 Tabela: `tags`
+## 🔸 Tabela: `developers`
 
-Representa as tags associadas aos jogos (ex: "multiplayer", "horror").
+Representa as desenvolvedoras de jogos eletrônicos presentes na plataforma RAWG.
 
 **Atributos:**
 
-- `name`: Nome da tag  
+- `name`: Nome da desenvolvedora  
 - `slug`: Nome formatado para URL  
-- `language`: Idioma padrão da tag  
-- `games_count`: Quantidade de jogos com essa tag  
-- `image_background`: Imagem associada à tag  
-- `description`: Descrição detalhada da tag  
-- `games`: Lista de jogos com essa tag  
-- `updated`: Data da última atualização da tag
+- `games_count`: Quantidade de jogos desenvolvidos  
+- `image_background`: Imagem de fundo associada  
+- `description`: Descrição detalhada da desenvolvedora (via detalhes da API)  
+- `website`: Site oficial da desenvolvedora  
+- `country`: País de origem da desenvolvedora  
+- `foundation_date`: Data de fundação da desenvolvedora
