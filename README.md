@@ -25,7 +25,7 @@ Representa criadores envolvidos na produção de jogos (desenvolvedores, diretor
 - `slug`: Nome formatado para URL  
 - `image`: URL da foto do criador (se disponível)  
 - `games_count`: Número de jogos relacionados ao criador  
-- `rating`: Imagem de fundo relacionada  
+- `rating`: Avaliação média do criador com base na opinião dos usuários da plataforma
 - `positions`: Lista de funções exercidas (ex: Designer, Developer)  
 - `description`: Biografia ou descrição do criador  
 - `games`: Lista de jogos mais populares feitos por ele
