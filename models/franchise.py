@@ -1,9 +1,9 @@
-from pydantic import BaseModel, Field
-from typing import List, Optional, Any
 from bson import ObjectId
-from pydantic import GetCoreSchemaHandler, GetJsonSchemaHandler
+from typing import Any, List, Optional
+from pydantic import BaseModel, Field
 from pydantic_core import core_schema
 from pydantic.json_schema import JsonSchemaValue
+from pydantic_core.core_schema import GetCoreSchemaHandler, GetJsonSchemaHandler
 
 class PyObjectId(ObjectId):
     @classmethod
@@ -20,17 +20,17 @@ class PyObjectId(ObjectId):
     def __get_pydantic_json_schema__(cls, _core_schema: core_schema.CoreSchema, _handler: GetJsonSchemaHandler) -> JsonSchemaValue:
         return {"type": "string", "example": "60f7f9b8f9d3b8a0a8d8f8f8"}
 
-class GameCreate(BaseModel):
+class FranchiseCreate(BaseModel):
     name: str
-    released: str
-    rating: float
     description: Optional[str] = None
-    ratings_count: int
-    genres: List[str]
-    tags: List[str]
-    slug: str
+    start_year: Optional[int] = None
+    genre: Optional[str] = None
+    owner: Optional[str] = None
+    image_url: Optional[str] = None
+    famous: bool = False
+    games: List[PyObjectId]
 
-class GameModel(GameCreate):
+class FranchiseModel(FranchiseCreate):
     id: PyObjectId = Field(default_factory=PyObjectId, alias="_id")
 
     model_config = {

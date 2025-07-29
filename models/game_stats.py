@@ -1,9 +1,9 @@
-from pydantic import BaseModel, Field
-from typing import List, Optional, Any
 from bson import ObjectId
-from pydantic import GetCoreSchemaHandler, GetJsonSchemaHandler
+from typing import Any, List, Optional
+from pydantic import BaseModel, Field
 from pydantic_core import core_schema
 from pydantic.json_schema import JsonSchemaValue
+from pydantic_core.core_schema import GetCoreSchemaHandler, GetJsonSchemaHandler
 
 class PyObjectId(ObjectId):
     @classmethod
@@ -20,17 +20,17 @@ class PyObjectId(ObjectId):
     def __get_pydantic_json_schema__(cls, _core_schema: core_schema.CoreSchema, _handler: GetJsonSchemaHandler) -> JsonSchemaValue:
         return {"type": "string", "example": "60f7f9b8f9d3b8a0a8d8f8f8"}
 
-class GameCreate(BaseModel):
-    name: str
-    released: str
-    rating: float
-    description: Optional[str] = None
-    ratings_count: int
-    genres: List[str]
-    tags: List[str]
-    slug: str
+class GameStatsCreate(BaseModel):
+    game_id: PyObjectId
+    total_downloads: int
+    hours_played_avg: float
+    user_reviews_count: int
+    metacritic_score: Optional[float] = None
+    peak_players: Optional[int] = None
+    languages_supported: List[str]
+    has_multiplayer: bool
 
-class GameModel(GameCreate):
+class GameStatsModel(GameStatsCreate):
     id: PyObjectId = Field(default_factory=PyObjectId, alias="_id")
 
     model_config = {

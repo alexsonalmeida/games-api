@@ -9,7 +9,7 @@ class PlatformCreate(BaseModel):
     year_start: Optional[int] = None
     year_end: Optional[int] = None
     description: Optional[str] = None
-    games: List[str]
+    exclusive_count: int
 
 class PlatformModel(PlatformCreate):
     id: PyObjectId = Field(default_factory=PyObjectId, alias="_id")

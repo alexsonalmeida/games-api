@@ -25,7 +25,7 @@ Representa criadores envolvidos na produção de jogos (desenvolvedores, diretor
 - `slug`: Nome formatado para URL  
 - `image`: URL da foto do criador (se disponível)  
 - `games_count`: Número de jogos relacionados ao criador  
-- `rating`: Avaliação média do criador com base na opinião dos usuários da plataforma
+- `rating`: Avaliação média do criador com base na opinião dos usuários da plataforma  
 - `positions`: Lista de funções exercidas (ex: Designer, Developer)  
 - `description`: Biografia ou descrição do criador  
 - `games`: Lista de jogos mais populares feitos por ele
@@ -59,10 +59,11 @@ Representa as lojas digitais onde os jogos podem ser comprados.
 - `domain`: Domínio da loja (ex: store.steampowered.com)  
 - `games_count`: Quantidade de jogos disponíveis na loja  
 - `image_background`: Imagem de fundo da loja  
-- `foundation_data`: Data de fundação da loja
-- `location`: País em que a loja foi fundada
-- `latitude`: latitude da sede da loja
-- `longitude`: longitude da sede da loja
+- `foundation_data`: Data de fundação da loja  
+- `location`: País em que a loja foi fundada  
+- `latitude`: Latitude da sede da loja  
+- `longitude`: Longitude da sede da loja
+
 ---
 
 ## 🔸 Tabela: `developers`
@@ -79,3 +80,38 @@ Representa as desenvolvedoras de jogos eletrônicos presentes na plataforma RAWG
 - `website`: Site oficial da desenvolvedora  
 - `country`: País de origem da desenvolvedora  
 - `foundation_date`: Data de fundação da desenvolvedora
+
+---
+
+## 🔸 Tabela: `franchises`
+
+Representa franquias de jogos (como "Final Fantasy", "The Legend of Zelda", etc), que agrupam diferentes jogos sob uma mesma marca.
+
+**Atributos:**
+
+- `name`: Nome da franquia  
+- `description`: Descrição da franquia  
+- `total_games`: Quantidade total de jogos pertencentes à franquia  
+- `first_release`: Data do primeiro lançamento da franquia  
+- `main_genre`: Gênero predominante da franquia  
+- `image_background`: Imagem de fundo ilustrativa  
+- `creator`: Nome do criador da franquia  
+- `developer`: Nome da desenvolvedora responsável  
+- `games`: Lista de jogos associados à franquia
+
+---
+
+## 🔸 Tabela: `game_states`
+
+Representa o estado atual de um jogo em relação à sua disponibilidade ou desenvolvimento.
+
+**Atributos:**
+
+- `name`: Nome do estado (ex: Em desenvolvimento, Lançado, Cancelado)  
+- `description`: Descrição detalhada sobre esse estado  
+- `release_type`: Tipo de lançamento (ex: Early Access, Full Release)  
+- `date`: Data em que o estado foi definido  
+- `region`: Região em que esse estado se aplica  
+- `platform`: Plataforma associada  
+- `game`: Jogo relacionado  
+- `visible`: Indica se o estado é visível ao público

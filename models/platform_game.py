@@ -1,5 +1,5 @@
 from pydantic import BaseModel, Field, ConfigDict
-from typing import List, Optional, Any
+from typing import Any
 from bson import ObjectId
 from pydantic import GetCoreSchemaHandler, GetJsonSchemaHandler
 from pydantic_core import core_schema
@@ -24,17 +24,11 @@ class PyObjectId(ObjectId):
             raise ValueError("ID inválido")
         return ObjectId(v)
 
-class CreatorCreate(BaseModel):
-    name: str
-    slug: str
-    image: Optional[str] = None
-    games_count: int
-    rating: float
-    positions: List[str]
-    description: Optional[str] = None
-    review_count: int
+class PlatformGameCreate(BaseModel):
+    platform_id: PyObjectId
+    game_id: PyObjectId
 
-class CreatorModel(CreatorCreate):
+class PlatformGameModel(PlatformGameCreate):
     id: PyObjectId = Field(default_factory=PyObjectId, alias="_id")
 
     model_config = ConfigDict(
