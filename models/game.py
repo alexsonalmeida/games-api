@@ -24,11 +24,11 @@ class GameCreate(BaseModel):
     name: str
     released: str
     rating: float
+    description: Optional[str] = None
     ratings_count: int
-    image_background: str
-    platforms: List[str]
     genres: List[str]
     tags: List[str]
+    slug: str
 
 class GameModel(GameCreate):
     id: PyObjectId = Field(default_factory=PyObjectId, alias="_id")
