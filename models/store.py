@@ -1,4 +1,5 @@
 from pydantic import BaseModel, Field
+from datetime import date
 from typing import Optional
 from bson import ObjectId
 from pydantic.json_schema import JsonSchemaValue
@@ -9,7 +10,7 @@ class PyObjectId(ObjectId):
         yield cls.validate
     
     @classmethod
-    def validate(cls, v):
+    def validate(cls, v, field):  
         if not ObjectId.is_valid(v):
             raise ValueError("Invalid ObjectId")
         return ObjectId(v)
@@ -23,7 +24,7 @@ class StoreCreate(BaseModel):
     domain: str
     games_count: int
     image_background: str
-    foundation_data: Optional[str] = None  
+    foundation_data: date  
     location: Optional[str] = None
     latitude: Optional[float] = None
     longitude: Optional[float] = None

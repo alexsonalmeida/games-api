@@ -1,4 +1,5 @@
 from fastapi import APIRouter, Query
+import datetime
 from pydantic import BaseModel
 from typing import List, Optional
 from models.store import StoreCreate, StoreModel
@@ -25,6 +26,10 @@ class PaginatedStoreResponse(BaseModel):
 async def create_store(store: StoreCreate):
     logger.info(f"POST /stores - Creating store: {store.name}")
     store_dict = store.dict()
+
+    if isinstance(store_dict.get("foundation_data"), (datetime.date, datetime.datetime)):
+        store_dict["foundation_data"] = store_dict["foundation_data"].isoformat()
+
     result = await collection.insert_one(store_dict)
     new_store = await collection.find_one({"_id": result.inserted_id})
     logger.info(f"Store created with id: {result.inserted_id}")
