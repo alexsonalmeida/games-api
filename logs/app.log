@@ -2,3 +2,76 @@
 2025-07-30 00:53:31,687 - INFO - Store created with id: 6889973b35369c7dc05d8728
 2025-07-30 00:54:53,368 - INFO - POST /platforms - Creating platform: string
 2025-07-30 00:54:53,550 - INFO - Platform created with id: 6889978d0274a1c8885a3fb9
+2025-07-30 10:07:10,951 - INFO - GET /stores - skip=0 limit=10
+2025-07-30 10:07:12,340 - INFO - Returned 0 stores out of 0
+2025-07-30 10:44:34,936 - INFO - POST /creators - Creating creator: string
+2025-07-30 10:44:35,027 - INFO - Creator created with ID: 688a21c2aaf77d105a47089c
+2025-07-30 10:45:12,884 - INFO - GET /creators - skip=0 limit=10
+2025-07-30 10:45:13,051 - INFO - Returned 8 creators out of 8
+2025-07-30 10:45:27,148 - INFO - GET /creators/filtrar - nome=string posicao=None skip=0 limit=10
+2025-07-30 10:45:27,259 - INFO - Returned 7 creators out of 7 for filter
+2025-07-30 10:51:29,618 - INFO - POST /developers - Creating developer: string
+2025-07-30 10:51:29,745 - INFO - Developer created with ID: 688a236151d86e46de236add
+2025-07-30 10:51:42,849 - INFO - GET /developers - skip=0 limit=10
+2025-07-30 10:51:42,872 - INFO - Returned 2 developers out of 2
+2025-07-30 10:51:56,345 - INFO - GET /developers/filtrar - nome=string skip=0 limit=10
+2025-07-30 10:51:56,350 - INFO - Returned 2 developers out of 2 for filter
+2025-07-30 10:59:07,369 - INFO - GET /games/count - Total: 1
+2025-07-30 10:59:14,443 - INFO - GET /games - skip=0 limit=10
+2025-07-30 10:59:26,424 - INFO - POST /games - Creating game: string
+2025-07-30 10:59:26,429 - INFO - Game created with ID: 688a253edb60c7aed2b49ecd
+2025-07-30 10:59:27,532 - INFO - POST /games - Creating game: string
+2025-07-30 10:59:27,536 - INFO - Game created with ID: 688a253fdb60c7aed2b49ece
+2025-07-30 10:59:33,381 - INFO - GET /games - skip=0 limit=10
+2025-07-30 11:01:46,307 - INFO - GET /games/filtrar - nome=string genero=None skip=0 limit=10
+2025-07-30 11:01:56,002 - INFO - GET /games/count - Total: 3
+2025-07-30 11:03:27,434 - INFO - GET /games - skip=0 limit=10
+2025-07-30 11:05:21,631 - INFO - GET /developers - skip=0 limit=10
+2025-07-30 11:05:21,655 - INFO - Returned 2 developers out of 2
+2025-07-30 11:05:37,804 - INFO - GET /games - skip=0 limit=10
+2025-07-30 11:05:37,885 - WARNING - Erro ao criar GameModel com documento 68879d5167506349e48b0bc7: 1 validation error for GameModel
+slug
+  Field required [type=missing, input_value={'_id': ObjectId('68879d5...g'], 'tags': ['string']}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-30 11:05:37,885 - INFO - Returned 2 valid games out of 3
+2025-07-30 11:05:38,163 - INFO - GET /games - skip=0 limit=10
+2025-07-30 11:05:38,169 - WARNING - Erro ao criar GameModel com documento 68879d5167506349e48b0bc7: 1 validation error for GameModel
+slug
+  Field required [type=missing, input_value={'_id': ObjectId('68879d5...g'], 'tags': ['string']}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-30 11:05:38,169 - INFO - Returned 2 valid games out of 3
+2025-07-30 11:06:34,903 - INFO - GET /games/filtrar - nome=string genero=None skip=0 limit=10
+2025-07-30 11:06:34,971 - WARNING - Erro ao criar GameModel com documento 68879d5167506349e48b0bc7: 1 validation error for GameModel
+slug
+  Field required [type=missing, input_value={'_id': ObjectId('68879d5...g'], 'tags': ['string']}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-30 11:06:34,972 - INFO - Returned 2 games out of 3 for filter
+2025-07-30 11:12:05,254 - INFO - POST /creators - Creating creator: string
+2025-07-30 11:12:05,341 - INFO - Creator created with ID: 688a283528429833800c4ceb
+2025-07-30 11:12:12,266 - INFO - GET /creators - skip=0 limit=10
+2025-07-30 11:12:12,274 - INFO - Returned 9 creators out of 9
+2025-07-30 11:12:24,052 - INFO - GET /creators/filtrar - nome=string posicao=None skip=0 limit=10
+2025-07-30 11:12:24,058 - INFO - Returned 8 creators out of 8 for filter
+2025-07-30 11:12:33,420 - INFO - GET /creators/count - Total: 9
+2025-07-30 11:12:54,035 - INFO - POST /developers - Creating developer: string
+2025-07-30 11:12:54,134 - INFO - Developer created with ID: 688a286628429833800c4cec
+2025-07-30 11:13:00,389 - INFO - GET /developers - skip=0 limit=10
+2025-07-30 11:13:00,401 - INFO - Returned 3 developers out of 3
+2025-07-30 11:13:12,192 - INFO - GET /developers/filtrar - nome=st skip=0 limit=10
+2025-07-30 11:13:12,198 - INFO - Returned 3 developers out of 3 for filter
+2025-07-30 11:13:18,398 - INFO - GET /developers/count - Total: 3
+2025-07-30 11:15:25,171 - INFO - POST /games - Creating game: string
+2025-07-30 11:15:25,259 - INFO - Game created with ID: 688a28fd28429833800c4ced
+2025-07-30 11:15:30,561 - INFO - GET /games - skip=0 limit=10
+2025-07-30 11:15:30,677 - WARNING - Erro ao criar GameModel com documento 68879d5167506349e48b0bc7: 1 validation error for GameModel
+slug
+  Field required [type=missing, input_value={'_id': ObjectId('68879d5...g'], 'tags': ['string']}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-30 11:15:30,696 - INFO - Returned 3 valid games out of 4
+2025-07-30 11:15:41,580 - INFO - GET /games/filtrar - nome=str genero=None skip=0 limit=10
+2025-07-30 11:15:41,599 - WARNING - Erro ao criar GameModel com documento 68879d5167506349e48b0bc7: 1 validation error for GameModel
+slug
+  Field required [type=missing, input_value={'_id': ObjectId('68879d5...g'], 'tags': ['string']}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-30 11:15:41,600 - INFO - Returned 3 games out of 4 for filter
+2025-07-30 11:15:50,663 - INFO - GET /games/count - Total: 4
