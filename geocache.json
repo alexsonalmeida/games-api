@@ -1,0 +1,2954 @@
+{
+  "Bellevue": [
+    47.6144219,
+    -122.192337
+  ],
+  "Saint-Mand\u00e9, France": [
+    48.8432434,
+    2.4159739
+  ],
+  "London": [
+    51.4893335,
+    -0.1440551
+  ],
+  "Montreal": [
+    45.5031824,
+    -73.5698065
+  ],
+  "Shinjuku Eastside Square": [
+    35.6966611,
+    139.7086637
+  ],
+  "Austin": [
+    30.2711286,
+    -97.7436995
+  ],
+  "San Mateo": [
+    37.496904,
+    -122.3330573
+  ],
+  "United States": [
+    39.7837304,
+    -100.445882
+  ],
+  "Burbank": [
+    34.1812089,
+    -118.307201
+  ],
+  "Minato": [
+    35.6580089,
+    139.7515137
+  ],
+  "Frisco": [
+    37.7792588,
+    -122.4193286
+  ],
+  "Rockville": [
+    39.0817985,
+    -77.1516844
+  ],
+  "Santa Clara": [
+    37.3541132,
+    -121.955174
+  ],
+  "11\u20131 Kamitoba Hokodatecho": [
+    null,
+    null
+  ],
+  "Vienna": [
+    48.2083537,
+    16.3725042
+  ],
+  "Ch\u016b\u014d-ku": [
+    35.6706436,
+    139.7719923
+  ],
+  "8496 Greenway Blvd": [
+    43.0901351,
+    -89.5325003
+  ],
+  "Wakefield": [
+    53.6829541,
+    -1.4967286
+  ],
+  "Canberra": [
+    -35.2975906,
+    149.1012676
+  ],
+  "H\u00f6fen": [
+    49.3753627,
+    15.4903748
+  ],
+  "British Columbia": [
+    55.001251,
+    -125.002441
+  ],
+  "FranceParis Montpellier": [
+    null,
+    null
+  ],
+  "Hamburg": [
+    53.550341,
+    10.000654
+  ],
+  "Irvine": [
+    33.6856969,
+    -117.825981
+  ],
+  "San Francisco": [
+    37.7792588,
+    -122.4193286
+  ],
+  "Espoo": [
+    60.2049651,
+    24.6559808
+  ],
+  "Stockholm": [
+    59.3251172,
+    18.0710935
+  ],
+  "Toronto": [
+    43.6534817,
+    -79.3839347
+  ],
+  "Lake Forest": [
+    42.2586461,
+    -87.8407055
+  ],
+  "Paris": [
+    48.8588897,
+    2.320041
+  ],
+  "Horsham": [
+    51.0630273,
+    -0.3295028
+  ],
+  "Castelnau-le-Lez": [
+    43.6393171,
+    3.9133311
+  ],
+  "Novato": [
+    38.1061979,
+    -122.5681191
+  ],
+  "Westwood": [
+    34.0668947,
+    -118.439944
+  ],
+  "Ch\u016b\u014d, Tokyo": [
+    35.6706436,
+    139.7719923
+  ],
+  "Shinagawa": [
+    35.6092008,
+    139.7301982
+  ],
+  "Frankfurt": [
+    50.1106444,
+    8.6820917
+  ],
+  "Chicago": [
+    41.8755616,
+    -87.6244212
+  ],
+  "Osaka": [
+    34.6937569,
+    135.5014539
+  ],
+  "Warsaw": [
+    52.2333742,
+    21.0711489
+  ],
+  "Shanghai": [
+    31.2312707,
+    121.4700152
+  ],
+  "Hoffman Estates": [
+    42.0427256,
+    -88.0792782
+  ],
+  "Los Angeles": [
+    34.0536909,
+    -118.242766
+  ],
+  "Quebec City": [
+    46.8137431,
+    -71.2084061
+  ],
+  "Helsinki": [
+    60.1674881,
+    24.9427473
+  ],
+  "Foster City": [
+    37.5600336,
+    -122.2688522
+  ],
+  "Uppsala": [
+    59.8586126,
+    17.6387436
+  ],
+  "Cambridge": [
+    52.2055314,
+    0.1186637
+  ],
+  "Fort Lauderdale": [
+    26.1223084,
+    -80.1433786
+  ],
+  "Sheffield": [
+    53.3806626,
+    -1.4702278
+  ],
+  "Redmond": [
+    47.6694141,
+    -122.1238767
+  ],
+  "Minatomirai": [
+    35.4572327,
+    139.6328453
+  ],
+  "Sofia": [
+    42.6977028,
+    23.3217359
+  ],
+  "Ukraine Prague": [
+    49.2452117,
+    28.5347749
+  ],
+  "Carlsbad": [
+    50.2306216,
+    12.8701437
+  ],
+  "Delft": [
+    52.0114017,
+    4.35839
+  ],
+  "Alpharetta": [
+    34.0755962,
+    -84.2945964
+  ],
+  "Country of originUnited States": [
+    null,
+    null
+  ],
+  "Shibuya": [
+    35.663676,
+    139.6976754
+  ],
+  "Nanterre": [
+    48.8924273,
+    2.2071267
+  ],
+  "Santa Ana": [
+    33.7494951,
+    -117.873221
+  ],
+  "Lewes": [
+    50.8746139,
+    0.0051153
+  ],
+  "Doetinchem": [
+    51.9585348,
+    6.2814551
+  ],
+  "Sk\u00f6vde": [
+    58.3896329,
+    13.8456344
+  ],
+  "Brighton": [
+    50.8214626,
+    -0.1400561
+  ],
+  "Cambridge Science Park": [
+    52.2334998,
+    0.1438199
+  ],
+  "Czech Republic": [
+    49.7439047,
+    15.3381061
+  ],
+  "West Hollywood": [
+    34.0923014,
+    -118.3692894
+  ],
+  "Hunt Valley": [
+    39.4962709,
+    -76.6542571
+  ],
+  "Roswell": [
+    33.3943282,
+    -104.5229518
+  ],
+  "Worms": [
+    49.6302618,
+    8.3620898
+  ],
+  "Leamington Spa": [
+    52.2913394,
+    -1.536404
+  ],
+  "D\u00fcsseldorf": [
+    51.2254018,
+    6.7763137
+  ],
+  "Chiyoda": [
+    35.6938097,
+    139.7532163
+  ],
+  "Akasaka": [
+    35.6716786,
+    139.7356224
+  ],
+  "D\u00fcren": [
+    50.8031684,
+    6.4820806
+  ],
+  "Redwood City": [
+    37.4863239,
+    -122.232523
+  ],
+  "Santa Clarita": [
+    34.4127963,
+    -118.5538088
+  ],
+  "Fusionopolis": [
+    1.2992368,
+    103.7878907
+  ],
+  "Malm\u00f6, Sweden": [
+    55.6052931,
+    13.0001566
+  ],
+  "Walton-on-Thames": [
+    51.3856837,
+    -0.419814
+  ],
+  "CountryUnited States": [
+    null,
+    null
+  ],
+  "Playa Vista": [
+    33.9760102,
+    -118.4181654
+  ],
+  "Fukuoka": [
+    33.6251241,
+    130.6180016
+  ],
+  "Limassol": [
+    34.6852901,
+    33.0332657
+  ],
+  "Cape Town": [
+    -33.9288301,
+    18.4172197
+  ],
+  "York": [
+    53.9656578,
+    -1.0743052
+  ],
+  "Santa Monica": [
+    34.0194704,
+    -118.491227
+  ],
+  "Torrance": [
+    33.8371392,
+    -118.3413606
+  ],
+  "Tampere": [
+    61.4980214,
+    23.7603118
+  ],
+  "Dallas": [
+    32.7762719,
+    -96.7968559
+  ],
+  "San Diego": [
+    32.7174202,
+    -117.162772
+  ],
+  "Madrid": [
+    40.4167047,
+    -3.7035825
+  ],
+  "Dundee": [
+    56.4605938,
+    -2.97019
+  ],
+  "Tachikawa": [
+    35.7139057,
+    139.4077701
+  ],
+  "Tustin": [
+    33.7458511,
+    -117.826166
+  ],
+  "France Karlstad": [
+    null,
+    null
+  ],
+  "Eugene": [
+    44.0505054,
+    -123.0950506
+  ],
+  "Wimbledon": [
+    51.4214787,
+    -0.2064027
+  ],
+  "Gothenburg": [
+    57.7072326,
+    11.9670171
+  ],
+  "Santa Cruz": [
+    28.467178,
+    -16.2507843
+  ],
+  "Emeryville": [
+    37.8314089,
+    -122.2865266
+  ],
+  "Santiago": [
+    9.8694792,
+    -83.7980749
+  ],
+  "Woodland Hills": [
+    34.1684364,
+    -118.6058382
+  ],
+  "Tokyo": [
+    35.6768601,
+    139.7638947
+  ],
+  "Country\u00a0Nepal": [
+    27.6782454,
+    85.3191024
+  ],
+  "San Sebasti\u00e1n de los Reyes": [
+    40.5473698,
+    -3.6260586
+  ],
+  "Hacettepe Teknokent": [
+    39.8616921,
+    32.7363159
+  ],
+  "Nishi-Shinagawa": [
+    35.612944,
+    139.7280078
+  ],
+  "Nicosia": [
+    35.1746503,
+    33.3638783
+  ],
+  "Bordeaux": [
+    44.841225,
+    -0.5800364
+  ],
+  "Moscow": [
+    55.625578,
+    37.6063916
+  ],
+  "Vancouver": [
+    49.2608724,
+    -123.113952
+  ],
+  "1647 Stewart Street": [
+    32.5427352,
+    -92.9181632
+  ],
+  "Penarth": [
+    51.4357312,
+    -3.175096
+  ],
+  "Republic of China": [
+    23.9739374,
+    120.9820179
+  ],
+  "Baltimore": [
+    39.2908816,
+    -76.610759
+  ],
+  "Floyds Knobs": [
+    38.3243841,
+    -85.8735251
+  ],
+  "CountryUnited States , France": [
+    null,
+    null
+  ],
+  "Aalborg": [
+    57.0462626,
+    9.9215263
+  ],
+  "Gliwice": [
+    50.294113,
+    18.6657306
+  ],
+  "Munich": [
+    48.1371079,
+    11.5753822
+  ],
+  "Las Vegas": [
+    36.1674263,
+    -115.1484131
+  ],
+  "Bend": [
+    44.0581728,
+    -121.3153096
+  ],
+  "500 Paula Ave": [
+    34.1588736,
+    -118.2904274
+  ],
+  "Yekaterinburg": [
+    56.839104,
+    60.60825
+  ],
+  "Partnership House": [
+    51.4960128,
+    -0.14111
+  ],
+  "Karlstad": [
+    59.3809146,
+    13.5027631
+  ],
+  "Seattle": [
+    47.6038321,
+    -122.330062
+  ],
+  "Guildford": [
+    51.2356068,
+    -0.5732063
+  ],
+  "Edmonton": [
+    53.5462055,
+    -113.491241
+  ],
+  "Denver": [
+    39.7392364,
+    -104.984862
+  ],
+  "Glasgow": [
+    55.861155,
+    -4.2501687
+  ],
+  "One Microsoft Way": [
+    35.1403758,
+    -80.9208149
+  ],
+  "Budapest": [
+    47.4978789,
+    19.0402383
+  ],
+  "Westminster": [
+    51.5004439,
+    -0.1265398
+  ],
+  "Vilnius": [
+    54.6870458,
+    25.2829111
+  ],
+  "Kanda Square": [
+    35.6930888,
+    139.7632973
+  ],
+  "Alcobendas": [
+    40.5400082,
+    -3.6358494
+  ],
+  "Bothell": [
+    47.7623204,
+    -122.2054035
+  ],
+  "Isle of Wight": [
+    50.6710482,
+    -1.3327111
+  ],
+  "Offenburg": [
+    48.4695984,
+    7.9429235
+  ],
+  "2701 Olympic Blvd": [
+    34.0287238,
+    -118.4675576
+  ],
+  "Orlando": [
+    28.5421109,
+    -81.3790304
+  ],
+  "Ashikaga": [
+    36.3400358,
+    139.4488397
+  ],
+  "CountryFrance": [
+    null,
+    null
+  ],
+  "Yokohama": [
+    35.4503381,
+    139.6343802
+  ],
+  "Boston": [
+    42.3554334,
+    -71.060511
+  ],
+  "Glendale": [
+    34.1469416,
+    -118.2478471
+  ],
+  "Lewisville": [
+    33.046233,
+    -96.994174
+  ],
+  "Utrecht": [
+    52.0907006,
+    5.1215634
+  ],
+  "W\u00fcrselen": [
+    50.8178682,
+    6.1341108
+  ],
+  "Gunwharf Quays": [
+    50.7954634,
+    -1.1060686
+  ],
+  "Fortitude Valley": [
+    -27.4572735,
+    153.0362663
+  ],
+  "Fujimi": [
+    35.8565545,
+    139.5490731
+  ],
+  "The Hague": [
+    52.0749456,
+    4.2696802
+  ],
+  "Sydney": [
+    -33.8698439,
+    151.2082848
+  ],
+  "Brussels": [
+    50.8465573,
+    4.351697
+  ],
+  "Salt Lake City": [
+    40.7596198,
+    -111.886797
+  ],
+  "Montpellier": [
+    43.6112422,
+    3.8767337
+  ],
+  "Boulder": [
+    40.0149856,
+    -105.270545
+  ],
+  "New York City": [
+    40.7127281,
+    -74.0060152
+  ],
+  "Westmount": [
+    45.4856917,
+    -73.596562
+  ],
+  "Country of originAustralia": [
+    null,
+    null
+  ],
+  "Mountain View": [
+    37.3893889,
+    -122.0832101
+  ],
+  "Kakamigahara": [
+    35.3995831,
+    136.8485648
+  ],
+  "CountryJapan": [
+    null,
+    null
+  ],
+  "Midtown Tower": [
+    35.6661249,
+    139.7312806
+  ],
+  "Los Altos": [
+    42.7811566,
+    -3.6202096
+  ],
+  "Gainesville": [
+    29.6519684,
+    -82.3249846
+  ],
+  "United States47\u00b027\u203253\u2033N 122\u00b013\u203218\u2033W\ufeff / \ufeff47.46472\u00b0N 122.22167\u00b0W\ufeff / 47.46472; -122.22167": [
+    null,
+    null
+  ],
+  "Maynard": [
+    42.4321064,
+    -71.4539683
+  ],
+  "Cincinnati": [
+    39.1014537,
+    -84.5124602
+  ],
+  "Culver City": [
+    34.0211224,
+    -118.396466
+  ],
+  "Krak\u00f3w": [
+    50.0469432,
+    19.9971534
+  ],
+  "Japan": [
+    36.5748441,
+    139.2394179
+  ],
+  "Sherman Oaks": [
+    34.1508718,
+    -118.448986
+  ],
+  "New Jersey": [
+    40.0757384,
+    -74.4041622
+  ],
+  "Hoogvliet": [
+    51.8652855,
+    4.3641111
+  ],
+  "Farnham": [
+    51.2151749,
+    -0.7984854
+  ],
+  "Valencia": [
+    39.4697065,
+    -0.3763353
+  ],
+  "Bridport": [
+    50.733785,
+    -2.7589005
+  ],
+  "Liverpool": [
+    53.4071991,
+    -2.99168
+  ],
+  "South Korea": [
+    36.638392,
+    127.6961188
+  ],
+  "CountryPhilippines": [
+    null,
+    null
+  ],
+  "Los Gatos": [
+    37.226611,
+    -121.9746797
+  ],
+  "Golden": [
+    39.7546349,
+    -105.22058
+  ],
+  "Asakusa": [
+    35.7175966,
+    139.7975626
+  ],
+  "St. John's": [
+    47.5646794,
+    -52.7066964
+  ],
+  "Laguna Beach": [
+    33.5426975,
+    -117.785366
+  ],
+  "Bremen": [
+    53.0758196,
+    8.8071646
+  ],
+  "ACI Vallelunga Circuit": [
+    null,
+    null
+  ],
+  "Karlsruhe": [
+    49.0068705,
+    8.4034195
+  ],
+  "United Kingdom": [
+    54.7023545,
+    -3.2765753
+  ],
+  "Enterprise": [
+    31.3151708,
+    -85.8552161
+  ],
+  "Kings Langley": [
+    51.7135573,
+    -0.4503027
+  ],
+  "Runcorn": [
+    53.3421509,
+    -2.7334941
+  ],
+  "Nova Scotia": [
+    45.1960403,
+    -63.1653789
+  ],
+  "CountryWales": [
+    null,
+    null
+  ],
+  "Massachusetts": [
+    42.3788774,
+    -72.032366
+  ],
+  "Copenhagen": [
+    55.6867243,
+    12.5700724
+  ],
+  "Melbourne": [
+    -37.8142454,
+    144.9631732
+  ],
+  "CountryScotland": [
+    null,
+    null
+  ],
+  "Country of originUnited Kingdom": [
+    null,
+    null
+  ],
+  "Lake Arrowhead": [
+    34.2571781,
+    -117.1909059
+  ],
+  "La Ca\u00f1ada Flintridge": [
+    34.1998302,
+    -118.2005236
+  ],
+  "Lutherville-Timonium": [
+    39.4475075,
+    -76.5974223
+  ],
+  "Hitchin": [
+    51.9486943,
+    -0.2779124
+  ],
+  "22 Berners Street": [
+    51.5178892,
+    -0.1367738
+  ],
+  "Nottingham": [
+    52.9534193,
+    -1.1496461
+  ],
+  "Shenzhen": [
+    22.5445741,
+    114.0545429
+  ],
+  "6 Central Street": [
+    -33.7169307,
+    150.3686232
+  ],
+  "Japan  Seattle": [
+    47.6973916,
+    -122.3450568
+  ],
+  "Oslo": [
+    59.9133301,
+    10.7389701
+  ],
+  "1065 Williams Street NW": [
+    33.7838518,
+    -84.3902039
+  ],
+  "Gifu": [
+    35.7867449,
+    137.0460777
+  ],
+  "Langen": [
+    49.9927036,
+    8.6671682
+  ],
+  "Bristol": [
+    51.4538022,
+    -2.5972985
+  ],
+  "Notting Hill": [
+    51.5109995,
+    -0.2055267
+  ],
+  "395, rue Victor RevillonQuebec City": [
+    null,
+    null
+  ],
+  "Northern Ireland": [
+    54.5859836,
+    -6.9591554
+  ],
+  "Walnut Creek": [
+    37.9020731,
+    -122.0618702
+  ],
+  "Philadelphia": [
+    39.9527237,
+    -75.1635262
+  ],
+  "Witham": [
+    51.8019608,
+    0.6383746
+  ],
+  "North Carolina": [
+    35.6729639,
+    -79.0392919
+  ],
+  "Grapevine": [
+    32.9337381,
+    -97.0788754
+  ],
+  "Newcastle upon Tyne": [
+    54.9738474,
+    -1.6131572
+  ],
+  "Haarlem": [
+    52.3837058,
+    4.6435597
+  ],
+  "Buenos Aires": [
+    -34.6083696,
+    -58.4440583
+  ],
+  "Sweden": [
+    59.6749712,
+    14.5208584
+  ],
+  "1650 Bertram StreetKelowna": [
+    null,
+    null
+  ],
+  "Manhattan Beach": [
+    33.8897798,
+    -118.3935254
+  ],
+  "Richmond Hill": [
+    43.8801166,
+    -79.4392925
+  ],
+  "Luhansk Oblast": [
+    49.2724587,
+    38.9150477
+  ],
+  "West Java": [
+    -6.8891904,
+    107.6404716
+  ],
+  "Xicheng District": [
+    39.9108672,
+    116.3599221
+  ],
+  "Portland": [
+    45.5202471,
+    -122.674194
+  ],
+  "Grand Central Creative Campus": [
+    34.1620241,
+    -118.287727
+  ],
+  "Roppongi": [
+    35.6624568,
+    139.7334981
+  ],
+  "British ColumbiaV6H 1C7": [
+    null,
+    null
+  ],
+  "Napier Court": [
+    51.4334834,
+    0.0229623
+  ],
+  "Rogers Building": [
+    48.4239026,
+    -123.3679965
+  ],
+  "75 boulevard d'Armenti\u00e8res": [
+    50.6996963,
+    3.1600453
+  ],
+  "Kichijoji Hommachi 1-31-11 KS building 7F": [
+    null,
+    null
+  ],
+  "Macclesfield": [
+    53.2606635,
+    -2.1255158
+  ],
+  "New Zealand": [
+    -41.5000831,
+    172.8344077
+  ],
+  "North Hykeham": [
+    53.1870106,
+    -0.5877503
+  ],
+  "Kirkland": [
+    47.6765382,
+    -122.2070775
+  ],
+  "CountryGermany": [
+    null,
+    null
+  ],
+  "Friedrichshafen": [
+    47.6500279,
+    9.4800858
+  ],
+  "Issy-les-Moulineaux": [
+    48.8250508,
+    2.273457
+  ],
+  "Comox Valley": [
+    49.670981,
+    -125.0353253
+  ],
+  "ProductsEnglish Country TuneStephen's Sausage Roll": [
+    null,
+    null
+  ],
+  "New Brunswick": [
+    46.500283,
+    -66.750183
+  ],
+  "Brisbane": [
+    -27.4689623,
+    153.0235009
+  ],
+  "Washington DC": [
+    38.8950368,
+    -77.0365427
+  ],
+  "Lagny-sur-Marne": [
+    48.8773018,
+    2.7056056
+  ],
+  "Austin Studios": [
+    30.3005978,
+    -97.6950287
+  ],
+  "Derby": [
+    52.9142235,
+    -1.4719885
+  ],
+  "San Rafael": [
+    37.9747795,
+    -122.5316686
+  ],
+  "Sapporo": [
+    43.061936,
+    141.3542924
+  ],
+  "Lille": [
+    50.6365654,
+    3.0635282
+  ],
+  "Pasadena": [
+    34.1476507,
+    -118.144155
+  ],
+  "El Cajon": [
+    32.7947731,
+    -116.962526
+  ],
+  "Iowa City": [
+    41.6612561,
+    -91.5299106
+  ],
+  "Andover": [
+    42.65717,
+    -71.1408776
+  ],
+  "Hong Kong": [
+    22.350627,
+    114.1849161
+  ],
+  "Lidk\u00f6ping": [
+    58.5037196,
+    13.1576427
+  ],
+  "Ann Arbor": [
+    42.2813722,
+    -83.7484616
+  ],
+  "Saint Petersburg": [
+    59.9606739,
+    30.1586551
+  ],
+  "Zagreb": [
+    45.8130967,
+    15.9772795
+  ],
+  "Indooroopilly": [
+    -27.5065612,
+    152.9822777
+  ],
+  "Villebon-sur-Yvette": [
+    48.7000046,
+    2.2276489
+  ],
+  "Taipei": [
+    25.0375198,
+    121.5636796
+  ],
+  "Tait\u014d, Tokyo": [
+    35.7125805,
+    139.7800712
+  ],
+  "CountryIsrael": [
+    null,
+    null
+  ],
+  "Rhode Island": [
+    41.7962409,
+    -71.5992372
+  ],
+  "CountryHong Kong": [
+    null,
+    null
+  ],
+  "Joinville-le-Pont": [
+    48.8183717,
+    2.4668077
+  ],
+  "St. Catharines": [
+    43.1579812,
+    -79.2441003
+  ],
+  "CountryCanadaUnited States": [
+    null,
+    null
+  ],
+  "Harderwijk": [
+    52.3490693,
+    5.618933
+  ],
+  "Country India": [
+    7.036659,
+    125.4974951
+  ],
+  "Madison": [
+    43.074761,
+    -89.3837613
+  ],
+  "Buena Park": [
+    33.870413,
+    -117.9962165
+  ],
+  "Bowling Green": [
+    36.9929203,
+    -86.4428677
+  ],
+  "Fitzroy": [
+    -37.8010382,
+    144.9792611
+  ],
+  "Sugar Land": [
+    29.6196787,
+    -95.6349463
+  ],
+  "Shinjuku": [
+    35.6937632,
+    139.7036319
+  ],
+  "City of Industry": [
+    34.0182252,
+    -117.9593061
+  ],
+  "Corston": [
+    51.3867636,
+    -2.4418814
+  ],
+  "Country of origin Japan": [
+    null,
+    null
+  ],
+  "Leeuwarden": [
+    53.2005936,
+    5.7918548
+  ],
+  "Slovenia": [
+    46.1199444,
+    14.8153333
+  ],
+  "Manchester": [
+    53.4794892,
+    -2.2451148
+  ],
+  "Round Rock": [
+    30.5085915,
+    -97.6788056
+  ],
+  "St Kilda": [
+    -37.8638261,
+    144.981637
+  ],
+  "Yerevan": [
+    40.1777112,
+    44.5126233
+  ],
+  "Plymouth": [
+    50.3714122,
+    -4.1424451
+  ],
+  "Nakano": [
+    35.7077741,
+    139.6638239
+  ],
+  "Agoura Hills": [
+    34.1481692,
+    -118.7655456
+  ],
+  "New York": [
+    40.7127281,
+    -74.0060152
+  ],
+  "CountryChile": [
+    null,
+    null
+  ],
+  "Lexington": [
+    38.0464066,
+    -84.4970393
+  ],
+  "US\nSan Rafael": [
+    37.9747795,
+    -122.5316686
+  ],
+  "Van Nuys": [
+    34.1866193,
+    -118.4486675
+  ],
+  "Rotherham": [
+    53.4310417,
+    -1.355187
+  ],
+  "Kyiv": [
+    50.4500336,
+    30.5241361
+  ],
+  "Milan": [
+    45.4641943,
+    9.1896346
+  ],
+  "Suitengu Hokushin Bldg. 1-39-5, Nihonbashi-kakigaracho": [
+    null,
+    null
+  ],
+  "Lyon": [
+    45.7578137,
+    4.8320114
+  ],
+  "Hollern-Twielenfleth": [
+    53.5970704,
+    9.529815
+  ],
+  "CountryEngland": [
+    null,
+    null
+  ],
+  "Cologne": [
+    50.938361,
+    6.959974
+  ],
+  "V\u00e9lizy-Villacoublay": [
+    48.7809496,
+    2.1900052
+  ],
+  "Bayswater": [
+    51.5122764,
+    -0.1883854
+  ],
+  "Marin County": [
+    38.0409144,
+    -122.6199638
+  ],
+  "Petersfield": [
+    51.0024945,
+    -0.9392027
+  ],
+  "Glen Cove": [
+    40.8641845,
+    -73.6319174
+  ],
+  "The Pentagon Arlington County": [
+    38.8733004,
+    -77.0552897
+  ],
+  "Shelton": [
+    41.3546999,
+    -73.1383092
+  ],
+  "Albstadt": [
+    48.233048,
+    8.9991483
+  ],
+  "Milton Keynes": [
+    52.0406502,
+    -0.7594092
+  ],
+  "CountryIndia": [
+    null,
+    null
+  ],
+  "Montreuil": [
+    50.4638918,
+    1.7631125
+  ],
+  "Kudankita": [
+    35.693155,
+    139.739047
+  ],
+  "Orem": [
+    40.2981599,
+    -111.6944313
+  ],
+  "Kontich": [
+    51.1353297,
+    4.4454784
+  ],
+  "Nagoya": [
+    35.1851045,
+    136.8998438
+  ],
+  "Canada and San Francisco": [
+    50.9602215,
+    -114.1039313
+  ],
+  "Nishi-Shinjuku": [
+    35.690719,
+    139.6941527
+  ],
+  "Osaki": [
+    38.5776571,
+    140.9557224
+  ],
+  "Country Turkey": [
+    32.4435857,
+    -95.7030988
+  ],
+  "Fenton": [
+    38.5131989,
+    -90.4400578
+  ],
+  "Grant Way": [
+    51.486158,
+    -0.32892
+  ],
+  "The Game MasterDonkey Kong Country": [
+    null,
+    null
+  ],
+  "Suginami-ku": [
+    35.6994929,
+    139.6362876
+  ],
+  "4079B Redwood Ave.Los Angeles": [
+    34.0031953,
+    -118.4497834
+  ],
+  "U.S.A.": [
+    14.4028193,
+    120.9277336
+  ],
+  "Country of origin\nUnited States\nCanada": [
+    null,
+    null
+  ],
+  "Neuch\u00e2tel": [
+    46.9895828,
+    6.9292641
+  ],
+  "Ingelheim": [
+    49.9752749,
+    8.0547274
+  ],
+  "locationLos Angeles": [
+    null,
+    null
+  ],
+  "CountryBulgaria": [
+    null,
+    null
+  ],
+  "Larbert": [
+    56.0221353,
+    -3.8297927
+  ],
+  "Mannheim": [
+    49.4892913,
+    8.4673098
+  ],
+  "Lesquin": [
+    50.5888,
+    3.10997
+  ],
+  "North Hills": [
+    40.7809343,
+    -73.6765187
+  ],
+  "Tucson": [
+    32.2228765,
+    -110.974847
+  ],
+  "Oakville": [
+    43.447436,
+    -79.666672
+  ],
+  "Lutz": [
+    43.4367,
+    1.7835
+  ],
+  "CountryUnited Kingdom": [
+    null,
+    null
+  ],
+  "UK \nIrvine": [
+    55.6143121,
+    -4.6655591
+  ],
+  "Kanagawa Prefecture": [
+    35.4342935,
+    139.374753
+  ],
+  "Culver Studios": [
+    34.0229713,
+    -118.3909603
+  ],
+  "CountryBelgium": [
+    null,
+    null
+  ],
+  "Bruchsal": [
+    49.124118,
+    8.5980244
+  ],
+  "Kyoto": [
+    35.0115754,
+    135.7681441
+  ],
+  "Ottawa": [
+    45.4208777,
+    -75.6901106
+  ],
+  "Nakagy\u014d-ku": [
+    35.0103167,
+    135.7512979
+  ],
+  "Warwick": [
+    52.2814519,
+    -1.5815742
+  ],
+  "310 King Street East": [
+    43.6524256,
+    -79.364054
+  ],
+  "UKMike Arkin Gary Sheinwald": [
+    null,
+    null
+  ],
+  "Kuala Lumpur": [
+    3.1526589,
+    101.7022205
+  ],
+  "South Korea Minato-ku": [
+    35.6518079,
+    139.7324375
+  ],
+  "United States; Warrington": [
+    40.2492741,
+    -75.1340604
+  ],
+  "Ljubljana": [
+    46.0500268,
+    14.5069289
+  ],
+  "Asakusabashi": [
+    35.6973931,
+    139.7846834
+  ],
+  "Barcelona": [
+    41.3825802,
+    2.177073
+  ],
+  "1110 Gorgas Ave. Letterman Digital Arts Center": [
+    null,
+    null
+  ],
+  "Country of origin\nUnited Kingdom\nUnited States": [
+    null,
+    null
+  ],
+  "Bucharest": [
+    44.4361414,
+    26.1027202
+  ],
+  "Berlin": [
+    52.510885,
+    13.3989367
+  ],
+  "CountryCanada": [
+    null,
+    null
+  ],
+  "of the United Nations": [
+    40.7504683,
+    -73.9668935
+  ],
+  "New Taipei": [
+    25.011997,
+    121.4656619
+  ],
+  "Fukuoka Prefecture": [
+    33.6251241,
+    130.6180016
+  ],
+  "717 North Harwood StreetFloor 27, Dallas": [
+    null,
+    null
+  ],
+  "Aliso Viejo": [
+    33.5761376,
+    -117.7258122
+  ],
+  "Sutton Coldfield": [
+    52.5623089,
+    -1.8239794
+  ],
+  "The Arcade": [
+    51.8877218,
+    -8.590551
+  ],
+  "First appearanceDonkey Kong Country": [
+    null,
+    null
+  ],
+  "Calabasas": [
+    34.1446643,
+    -118.644097
+  ],
+  "CountryPoland": [
+    null,
+    null
+  ],
+  "Country Azerbaijan": [
+    40.7468938,
+    -73.5883717
+  ],
+  "Greenwich American CenterGreenwich": [
+    null,
+    null
+  ],
+  "Amsterdam": [
+    52.3730796,
+    4.8924534
+  ],
+  "Medford": [
+    42.4184296,
+    -71.1061639
+  ],
+  "Hammersmith": [
+    51.4920377,
+    -0.2236401
+  ],
+  "Istanbul": [
+    41.006381,
+    28.9758715
+  ],
+  "Edinburgh": [
+    55.9533456,
+    -3.1883749
+  ],
+  "United\u00a0States": [
+    39.7837304,
+    -100.445882
+  ],
+  "CountryRussia": [
+    null,
+    null
+  ],
+  "Gyeonggi Province": [
+    37.2884675,
+    127.0535231
+  ],
+  "Country Portugal": [
+    38.641012,
+    0.0649502
+  ],
+  "Champaign": [
+    40.1164841,
+    -88.2430932
+  ],
+  "CountryIran": [
+    null,
+    null
+  ],
+  "Victoria": [
+    -36.5986096,
+    144.6780052
+  ],
+  "Suzhou": [
+    31.311123,
+    120.6212881
+  ],
+  "CountrySwitzerland": [
+    null,
+    null
+  ],
+  "Port Elizabeth": [
+    -33.9618359,
+    25.6186512
+  ],
+  "CountryTurkey": [
+    null,
+    null
+  ],
+  "CountryItaly": [
+    null,
+    null
+  ],
+  "Oxford": [
+    51.7520131,
+    -1.2578499
+  ],
+  "East Sussex": [
+    50.9404266,
+    0.3699978
+  ],
+  "Porto": [
+    41.1502195,
+    -8.6103497
+  ],
+  "Galway": [
+    53.2744122,
+    -9.0490601
+  ],
+  "71 Fort Street": [
+    -36.8464889,
+    174.7697485
+  ],
+  "K\u014dt\u014d, Tokyo": [
+    35.6727747,
+    139.8169621
+  ],
+  "Burnaby": [
+    49.2433804,
+    -122.972545
+  ],
+  "Warner Bros. Studios": [
+    34.1488722,
+    -118.3376298
+  ],
+  "One Astor PlazaNew York City": [
+    null,
+    null
+  ],
+  "Mita": [
+    35.6467874,
+    139.7414307
+  ],
+  "U.S.": [
+    39.7837304,
+    -100.445882
+  ],
+  "New Mexico": [
+    34.5802074,
+    -105.996047
+  ],
+  "Country of origin\nVenezuela\nUnited States": [
+    null,
+    null
+  ],
+  "California": [
+    36.7014631,
+    -118.755997
+  ],
+  "Country\u00a0United States": [
+    42.4345931,
+    -83.9729086
+  ],
+  "Leopardstown": [
+    53.2747217,
+    -6.1927577
+  ],
+  "Via Framura 85, Rome": [
+    41.9103221,
+    12.4042333
+  ],
+  "Schladming": [
+    47.3940415,
+    13.6867878
+  ],
+  "Mary W. Jackson NASA Washington": [
+    38.8829042,
+    -77.0163517
+  ],
+  "Ellon": [
+    49.2201355,
+    -0.6811959
+  ],
+  "Farmers Branch": [
+    32.9265668,
+    -96.8960916
+  ],
+  "Mn\u00ed\u0161ek pod Brdy": [
+    49.8664138,
+    14.2609488
+  ],
+  "Tallinn": [
+    59.4372155,
+    24.7453688
+  ],
+  "CountryVenezuela": [
+    null,
+    null
+  ],
+  "Meguro": [
+    35.6412891,
+    139.6983834
+  ],
+  "1-ch\u014dme-16-14 Kamiogi": [
+    35.7056499,
+    139.6190105
+  ],
+  "1 EverBank Stadium Drive  Jacksonville": [
+    null,
+    null
+  ],
+  "Assen": [
+    52.997225,
+    6.5506458
+  ],
+  "Bundang District": [
+    37.3937616,
+    127.1030222
+  ],
+  "San Nicol\u00e1s de los Garza": [
+    25.7558021,
+    -100.289648
+  ],
+  "Alameda": [
+    37.6090291,
+    -121.899142
+  ],
+  "Poway": [
+    32.9628234,
+    -117.035864
+  ],
+  "CountryDenmark": [
+    null,
+    null
+  ],
+  "Chala": [
+    -15.8659492,
+    -74.2468396
+  ],
+  "Sherbrooke": [
+    45.403271,
+    -71.889038
+  ],
+  "Country of originSouth Korea": [
+    null,
+    null
+  ],
+  "Burton upon Trent": [
+    52.802742,
+    -1.629917
+  ],
+  "Singapore": [
+    1.357107,
+    103.8194992
+  ],
+  "Midlothian": [
+    55.833333,
+    -3.083333
+  ],
+  "Strasbourg": [
+    48.584614,
+    7.7507127
+  ],
+  "San Jose": [
+    37.3361663,
+    -121.890591
+  ],
+  "Dam Neck AnnexNAS Oceana": [
+    null,
+    null
+  ],
+  "CountryrepresentedDenmark": [
+    null,
+    null
+  ],
+  "Poitier Building10202 West Washington Boulevard": [
+    null,
+    null
+  ],
+  "Sunderland": [
+    54.9058512,
+    -1.3828727
+  ],
+  "Jing\u016bmae": [
+    35.6692039,
+    139.7072847
+  ],
+  "Fox Studio Lot Building 88, 10201 West Pico Boulevard": [
+    null,
+    null
+  ],
+  "Australia": [
+    -24.7761086,
+    134.755
+  ],
+  "T\u00fcbingen": [
+    48.5203263,
+    9.053596
+  ],
+  "CountryAustralia": [
+    null,
+    null
+  ],
+  "Moorpark": [
+    34.285558,
+    -118.8820414
+  ],
+  "Abbotsford": [
+    49.0521162,
+    -122.329479
+  ],
+  "Chelmsford": [
+    51.7345329,
+    0.4730532
+  ],
+  "Countryrepresented\u00a0Belarus": [
+    null,
+    null
+  ],
+  "New Bedford": [
+    41.6362152,
+    -70.934205
+  ],
+  "Tencent Binhai Mansion": [
+    null,
+    null
+  ],
+  "Z\u00fcrich": [
+    47.3744489,
+    8.5410422
+  ],
+  "Chantilly": [
+    49.1931736,
+    2.4636686
+  ],
+  "Illinois": [
+    40.0796606,
+    -89.4337288
+  ],
+  "Kajino-ch\u014d, Koganei": [
+    null,
+    null
+  ],
+  "Country England": [
+    53.9068656,
+    -1.4914799
+  ],
+  "Country\u00a0Slovakia": [
+    48.2162078,
+    17.3889858
+  ],
+  "Musashino": [
+    35.7177239,
+    139.5659802
+  ],
+  "Little Falls": [
+    45.9763545,
+    -94.3625024
+  ],
+  "Setagaya": [
+    35.6469025,
+    139.652531
+  ],
+  "Country of originMexico": [
+    null,
+    null
+  ],
+  "Country of originChina": [
+    null,
+    null
+  ],
+  "6-27-30 Shinjuku": [
+    35.6966611,
+    139.7086637
+  ],
+  "Bergen": [
+    60.3943055,
+    5.3259192
+  ],
+  "U.K.": [
+    54.7023545,
+    -3.2765753
+  ],
+  "Waterloo": [
+    42.498275,
+    -92.3328743
+  ],
+  "Taichung": [
+    24.163162,
+    120.6478282
+  ],
+  "Bratislava": [
+    48.1516988,
+    17.1093063
+  ],
+  "Messina": [
+    38.1937571,
+    15.5542082
+  ],
+  "11F Nihon Seimei Sapporo Bldg., 1-1 Nishi4 Kita3, Ch\u016b\u014d-ku": [
+    null,
+    null
+  ],
+  "\u015awilcza": [
+    50.0714236,
+    21.8998941
+  ],
+  "Croydon": [
+    51.3713049,
+    -0.101957
+  ],
+  "Country of origin\u00a0Mexico": [
+    null,
+    null
+  ],
+  "CountrySri Lanka": [
+    null,
+    null
+  ],
+  "675 Sycamore Dr., Milpitas": [
+    37.4101925,
+    -121.9156101
+  ],
+  "CountrySoviet Union": [
+    null,
+    null
+  ],
+  "Country\u00a0Colombia": [
+    4.6288025,
+    -74.0653024
+  ],
+  "Ukraine  Dublin": [
+    50.4426247,
+    30.4424541
+  ],
+  "Yaounde": [
+    3.8689867,
+    11.5213344
+  ],
+  "Neubiberg": [
+    48.0769935,
+    11.6615136
+  ],
+  "Aarhus": [
+    56.1496278,
+    10.2134046
+  ],
+  "Provo": [
+    40.2337289,
+    -111.6587085
+  ],
+  "Forest Park": [
+    41.8794989,
+    -87.8136997
+  ],
+  "Bogot\u00e1, Colombia": [
+    4.653384,
+    -74.0836332
+  ],
+  "Lemont": [
+    41.6737149,
+    -88.0016263
+  ],
+  "Sarasota": [
+    27.3365805,
+    -82.5308545
+  ],
+  "France": [
+    46.603354,
+    1.8883335
+  ],
+  "K\u014dka": [
+    34.9662392,
+    136.1668719
+  ],
+  "CountrySpain": [
+    null,
+    null
+  ],
+  "Yodogawa-ku": [
+    34.7209341,
+    135.4865298
+  ],
+  "Gas Ferry Road": [
+    51.4482934,
+    -2.607657
+  ],
+  "Shinjuku-ku": [
+    35.6937632,
+    139.7036319
+  ],
+  "31 International Business Park Rd": [
+    null,
+    null
+  ],
+  "172, Mayor Agan Avenue": [
+    6.9263488,
+    122.0744345
+  ],
+  "Rottenmann , Styria": [
+    47.524226,
+    14.3585643
+  ],
+  "Letterman Digital Arts Center": [
+    37.7982383,
+    -122.4481275
+  ],
+  "Country of originCanadaUnited States": [
+    null,
+    null
+  ],
+  "Republic of Korea": [
+    36.638392,
+    127.6961188
+  ],
+  "CountrySweden": [
+    null,
+    null
+  ],
+  "Makati": [
+    14.5567949,
+    121.0211226
+  ],
+  "Genres\nCountry\ncountry rock\ngulf and western\nneotraditional country": [
+    null,
+    null
+  ],
+  "CountrySaudi Arabia": [
+    null,
+    null
+  ],
+  "Country\u00a0Ukraine": [
+    50.540552,
+    30.2779864
+  ],
+  "Atlanta": [
+    33.7544657,
+    -84.3898151
+  ],
+  "Myanmar and China": [
+    16.7680102,
+    96.1623798
+  ],
+  "Bologna": [
+    44.4938203,
+    11.3426327
+  ],
+  "CountryHungary": [
+    null,
+    null
+  ],
+  "\u014cta": [
+    35.561206,
+    139.715843
+  ],
+  "Lausanne": [
+    46.5218269,
+    6.6327025
+  ],
+  "CountryNew Zealand": [
+    null,
+    null
+  ],
+  "Higashiikebukuro": [
+    35.7301284,
+    139.7187189
+  ],
+  "Malaysia": [
+    4.5693754,
+    102.2656823
+  ],
+  "Beijing": [
+    40.190632,
+    116.412144
+  ],
+  "1050 Techwood Drive NWAtlanta": [
+    null,
+    null
+  ],
+  "3200 Hackberry Road": [
+    32.9246768,
+    -96.9877546
+  ],
+  "Adobe World , San Jose": [
+    37.3309488,
+    -121.8938694
+  ],
+  "Country/ies of originUnited States": [
+    null,
+    null
+  ],
+  "Naver Green Factory": [
+    37.3593623,
+    127.1050172
+  ],
+  "Country\u00a0Republic of China": [
+    23.7134343,
+    120.5505413
+  ],
+  "Yuma": [
+    32.723268,
+    -114.6179954
+  ],
+  "Country\u00a0\u00a0India": [
+    7.036659,
+    125.4974951
+  ],
+  "Athens": [
+    33.9597677,
+    -83.376398
+  ],
+  "CountryPolandCzech RepublicGermany": [
+    null,
+    null
+  ],
+  "CountryNetherlands": [
+    null,
+    null
+  ],
+  "Boulogne-Billancourt": [
+    48.8356649,
+    2.240206
+  ],
+  "CountrySouth Korea": [
+    null,
+    null
+  ],
+  "Marunouchi": [
+    35.6790703,
+    139.7652988
+  ],
+  "Country\u00a0Costa Rica": [
+    39.04574,
+    -0.1923153
+  ],
+  "The Walt Disney Studios": [
+    null,
+    null
+  ],
+  "Country of originJapan": [
+    null,
+    null
+  ],
+  "Malvern": [
+    52.1159559,
+    -2.3258985
+  ],
+  "Ume\u00e5, Sweden": [
+    63.8256568,
+    20.2630745
+  ],
+  "CountryBelarus": [
+    null,
+    null
+  ],
+  "New South Wales": [
+    -31.8759835,
+    147.2869493
+  ],
+  "Middlesbrough": [
+    54.5760419,
+    -1.2344047
+  ],
+  "Gateshead": [
+    54.9625789,
+    -1.6019294
+  ],
+  "Adelaide": [
+    -34.9281805,
+    138.5999312
+  ],
+  "Country\u00a0India": [
+    7.036659,
+    125.4974951
+  ],
+  "Country of originRussia": [
+    null,
+    null
+  ],
+  "Country of originSpain": [
+    null,
+    null
+  ],
+  "Country or\u00a0regionWorldwide": [
+    null,
+    null
+  ],
+  "Tamil Nadu": [
+    10.9094334,
+    78.3665347
+  ],
+  "Witton": [
+    52.8271722,
+    1.4665196
+  ],
+  "Country\u00a0Austria": [
+    39.4703586,
+    -0.3728703
+  ],
+  "Country\u00a0China": [
+    22.2782521,
+    114.1724395
+  ],
+  "1271 Avenue of the AmericasNew York": [
+    null,
+    null
+  ],
+  "Abiko": [
+    35.863999,
+    140.0280653
+  ],
+  "Nixa": [
+    37.0433856,
+    -93.2986635
+  ],
+  "CountryGreece": [
+    null,
+    null
+  ],
+  "Country of originBrazil": [
+    null,
+    null
+  ],
+  "Spring Hill": [
+    41.4117626,
+    -93.6479872
+  ],
+  "Countryrepresented\u00a0Russia": [
+    null,
+    null
+  ],
+  "South Burlington": [
+    44.4671635,
+    -73.1715669
+  ],
+  "TLD typeCountry code top-level domain": [
+    null,
+    null
+  ],
+  "Hakata": [
+    33.5897239,
+    130.4185335
+  ],
+  "Holbeck": [
+    53.785378,
+    -1.5600195
+  ],
+  "CountryrepresentedUnited States": [
+    null,
+    null
+  ],
+  "5/F TV5 Media Center": [
+    null,
+    null
+  ],
+  "Country United States": [
+    42.4345931,
+    -83.9729086
+  ],
+  "Country of originFrance  Japan  Brazil": [
+    null,
+    null
+  ],
+  "Country\u00a0\u00a0United States": [
+    42.4345931,
+    -83.9729086
+  ],
+  "Cheadle Hulme": [
+    53.370983,
+    -2.1928018
+  ],
+  "Country\u00a0Russia": [
+    53.9479081,
+    58.4215348
+  ],
+  "Tairan Building": [
+    22.5382751,
+    114.018204
+  ],
+  "St. Louis": [
+    38.6280278,
+    -90.1910154
+  ],
+  "Dublin": [
+    53.3493795,
+    -6.2605593
+  ],
+  "Birmingham": [
+    52.4796992,
+    -1.9026911
+  ],
+  "CountryIreland": [
+    null,
+    null
+  ],
+  "Remote work": [
+    null,
+    null
+  ],
+  "Huddersfield": [
+    53.6466645,
+    -1.7822482
+  ],
+  "Prague": [
+    50.0596288,
+    14.4464593
+  ],
+  "Reykjav\u00edk": [
+    64.145981,
+    -21.9422367
+  ],
+  "6252 Santa Monica Boulevard  Los Angeles": [
+    34.0906583,
+    -118.3255911
+  ],
+  "Country of origin\nCanada\nFrance \nChina": [
+    null,
+    null
+  ],
+  "Sedona": [
+    34.8688613,
+    -111.7614394
+  ],
+  "CountryNorthern Ireland": [
+    null,
+    null
+  ],
+  "Sangenjaya": [
+    35.6420125,
+    139.6692341
+  ],
+  "Irving": [
+    32.8295183,
+    -96.9442177
+  ],
+  "Country of origin\nCanada\nUnited States": [
+    null,
+    null
+  ],
+  "AustraliaBasque CountryBrazilCaliforniaCubaCanadaFranceGermanyNetherlandsPeruPhiladelphiaScotlandSpainYugoslaviaGreece": [
+    null,
+    null
+  ],
+  "Country of originIndia": [
+    null,
+    null
+  ],
+  "Higashishinagawa": [
+    35.6154624,
+    139.7478044
+  ],
+  "707 Washington Blvd  Stamford": [
+    41.049155,
+    -73.5410131
+  ],
+  "CountryMinami-Aoyama": [
+    null,
+    null
+  ],
+  "Shinagawa-ku": [
+    35.6092008,
+    139.7301982
+  ],
+  "Seocho District": [
+    37.4929153,
+    127.0073723
+  ],
+  "Katsushika": [
+    35.7433912,
+    139.8473472
+  ],
+  "Newberg": [
+    45.300347,
+    -122.972751
+  ],
+  "CountryRomania": [
+    null,
+    null
+  ],
+  "Newport Beach": [
+    33.6170092,
+    -117.9294401
+  ],
+  "Chiavari": [
+    44.3164494,
+    9.3233382
+  ],
+  "Richardson": [
+    32.9481789,
+    -96.7297206
+  ],
+  "Shimoyama": [
+    35.2124712,
+    135.4225002
+  ],
+  "614023, Russia": [
+    58.0468703,
+    56.0371577
+  ],
+  "85 Broad Street": [
+    40.7039393,
+    -74.0112193
+  ],
+  "Kure": [
+    34.2484488,
+    132.5652498
+  ],
+  "Kita": [
+    35.7528821,
+    139.7338331
+  ],
+  "Simonstone": [
+    53.8104352,
+    -2.3348001
+  ],
+  "Country Indonesia": [
+    38.7957471,
+    0.1065445
+  ],
+  "Country of originUkraine": [
+    null,
+    null
+  ],
+  "GenreCountry rock": [
+    null,
+    null
+  ],
+  "Country of originPhilippines": [
+    null,
+    null
+  ],
+  "NEC Supertower": [
+    null,
+    null
+  ],
+  "Kariya": [
+    34.974678,
+    137.002791
+  ],
+  "Freiburg im Breisgau": [
+    47.9960901,
+    7.8494005
+  ],
+  "Shreveport": [
+    32.5135356,
+    -93.7477839
+  ],
+  "Mainzer Landstra\u00dfe 11-17, Frankfurt": [
+    50.1118044,
+    8.6670655
+  ],
+  "TOKAI Building": [
+    34.970239,
+    138.382189
+  ],
+  "Salem": [
+    44.9391565,
+    -123.033121
+  ],
+  "Country of originSingaporeUnited Kingdom": [
+    null,
+    null
+  ],
+  "Guelph": [
+    43.5460516,
+    -80.2493276
+  ],
+  "Country of originAustraliaUnited States": [
+    null,
+    null
+  ],
+  "Bra\u0219ov": [
+    45.6525105,
+    25.6105654
+  ],
+  "Sasebo": [
+    33.1799965,
+    129.7152872
+  ],
+  "Minneapolis": [
+    44.9772995,
+    -93.2654692
+  ],
+  "Tokyo  Japan": [
+    35.6768601,
+    139.7638947
+  ],
+  "Oklahoma Omaha": [
+    35.5437188,
+    -97.5808164
+  ],
+  "Fuschl am See , Salzburg": [
+    47.7963895,
+    13.3027787
+  ],
+  "Garden Grove": [
+    33.7746292,
+    -117.9463717
+  ],
+  "Herzliya": [
+    32.1656255,
+    34.8469023
+  ],
+  "locationNew York City": [
+    null,
+    null
+  ],
+  "Saint Luke's Tower 46F": [
+    null,
+    null
+  ],
+  "Country of origin\u00a0Yemen": [
+    null,
+    null
+  ],
+  "605 Third AvenueNew York City": [
+    null,
+    null
+  ],
+  "South Africa": [
+    -28.8166236,
+    24.991639
+  ],
+  "Riverwood": [
+    38.2831257,
+    -85.6616283
+  ],
+  "Brea": [
+    33.9170444,
+    -117.888855
+  ],
+  "Chapel Hill": [
+    35.9131542,
+    -79.05578
+  ],
+  "Country of originPoland": [
+    null,
+    null
+  ],
+  "Goregaon": [
+    19.1648688,
+    72.8495492
+  ],
+  "CountryGhana": [
+    null,
+    null
+  ],
+  "Houten": [
+    52.0271433,
+    5.1620637
+  ],
+  "CountryPapua New Guinea": [
+    null,
+    null
+  ],
+  "CountryCzech Republic": [
+    null,
+    null
+  ],
+  "CountryRepublic of FlorenceGrand Duchy of Tuscany Papal StatesDuchy of Urbino": [
+    null,
+    null
+  ],
+  "Honolulu": [
+    21.304547,
+    -157.855676
+  ],
+  "Country\u00a0Poland": [
+    50.5346026,
+    22.7185916
+  ],
+  "Ebisu": [
+    35.64696,
+    139.7086658
+  ],
+  "Shepherd's Bush": [
+    51.5053155,
+    -0.2229856
+  ],
+  "Ashby-de-la-Zouch": [
+    52.7471344,
+    -1.4712148
+  ],
+  "Bandung": [
+    -6.9218457,
+    107.6070833
+  ],
+  "Usmate Velate": [
+    45.6524584,
+    9.3543419
+  ],
+  "Saint John": [
+    45.2787992,
+    -66.0585188
+  ],
+  "Vernon Hills": [
+    42.2204892,
+    -87.9803604
+  ],
+  "Miami": [
+    25.7741728,
+    -80.19362
+  ],
+  "Switzerland": [
+    46.7985624,
+    8.2319736
+  ],
+  "299 Queen Street West": [
+    43.6496036,
+    -79.3906906
+  ],
+  "SpinoffsManassasCountry Gazette": [
+    null,
+    null
+  ],
+  "Genres\nCountry\nsoul\ncountry rock\nbluegrass": [
+    null,
+    null
+  ],
+  "Hangzhou": [
+    30.2489634,
+    120.2052342
+  ],
+  "Country of originCanada": [
+    null,
+    null
+  ],
+  "Bunky\u014d, Tokyo": [
+    35.7080255,
+    139.7523066
+  ],
+  "Rostov-on-Don": [
+    47.2610441,
+    39.7249086
+  ],
+  "Unit 1701, 17th Floor": [
+    37.7273347,
+    23.4854981
+  ],
+  "Hatton": [
+    47.6397087,
+    -97.4534224
+  ],
+  "901 Cherry AvenueSan Bruno": [
+    null,
+    null
+  ],
+  "CountryChina": [
+    null,
+    null
+  ],
+  "New York City & Los Angeles": [
+    40.70065,
+    -73.9434762
+  ],
+  "Spain": [
+    39.3260685,
+    -4.8379791
+  ],
+  "Wheeling": [
+    40.0639616,
+    -80.7209149
+  ],
+  "Korean": [
+    36.638392,
+    127.6961188
+  ],
+  "917 Main St. #200, Cincinnati": [
+    null,
+    null
+  ],
+  "Ueda": [
+    36.4021192,
+    138.2490506
+  ],
+  "Isle of Man": [
+    54.1936805,
+    -4.5591148
+  ],
+  "Country\u00a0\u00a0Australia": [
+    -31.1648164,
+    150.9142677
+  ],
+  "Naritahigashi": [
+    35.6992332,
+    139.6321911
+  ],
+  "Rennes": [
+    48.1113387,
+    -1.6800198
+  ],
+  "CountryAncient Greece": [
+    null,
+    null
+  ],
+  "Erfurt": [
+    50.9777974,
+    11.0287364
+  ],
+  "Ventura County": [
+    34.4458248,
+    -119.0779359
+  ],
+  "San Luis Obispo": [
+    35.3540209,
+    -120.375716
+  ],
+  "Voronezh": [
+    51.680008,
+    39.183725
+  ],
+  "Green Bay": [
+    44.5126379,
+    -88.0125794
+  ],
+  "Beverly Hills": [
+    34.0696501,
+    -118.3963062
+  ],
+  "31": [
+    43.3054546,
+    0.9716792
+  ],
+  "Chaoyang District": [
+    39.9204498,
+    116.4369109
+  ],
+  "Toledo": [
+    39.8560679,
+    -4.0239568
+  ],
+  "St Austell": [
+    50.338466,
+    -4.7882104
+  ],
+  "India": [
+    22.3511148,
+    78.6677428
+  ],
+  "Decatur\u00a0, United States": [
+    39.8454163,
+    -88.9524151
+  ],
+  "Beverwijk": [
+    52.4787896,
+    4.6728396
+  ],
+  "Pozuelo de Alarc\u00f3n": [
+    40.4346528,
+    -3.814834
+  ],
+  "Adderbury": [
+    52.0165013,
+    -1.3131166
+  ],
+  "Taunton": [
+    51.0147895,
+    -3.1029086
+  ],
+  "235 Bowery": [
+    40.7223433,
+    -73.992838
+  ],
+  "Country of originU.S.": [
+    null,
+    null
+  ],
+  "CountryPeople's Republic of China": [
+    null,
+    null
+  ],
+  "CountryTaiwan": [
+    null,
+    null
+  ],
+  "North Rhine-Westphalia": [
+    51.4789205,
+    7.5543751
+  ],
+  "Country of originTurkey": [
+    null,
+    null
+  ],
+  "1 Denison Street": [
+    52.9306052,
+    -1.2204968
+  ],
+  "Countryrepresented Brazil": [
+    null,
+    null
+  ],
+  "Guro District": [
+    33.1895526,
+    75.9286165
+  ],
+  "Nakacho": [
+    35.6992877,
+    139.7360435
+  ],
+  "Southern gospel": [
+    22.2176426,
+    114.2132446
+  ],
+  "H\u00e4gersten": [
+    59.3039831,
+    17.9671408
+  ],
+  "GenreCountry": [
+    null,
+    null
+  ],
+  "Lower Saxony": [
+    52.8398531,
+    9.075962
+  ],
+  "CountryMexico": [
+    null,
+    null
+  ],
+  "Pristina": [
+    42.6638771,
+    21.1640849
+  ],
+  "Shibasakicho": [
+    35.693234,
+    139.4070345
+  ],
+  "10 Bishops Square": [
+    51.5198622,
+    -0.0775704
+  ],
+  "1776 Broadway": [
+    40.7663918,
+    -73.9815021
+  ],
+  "Rzesz\u00f3w": [
+    50.013064,
+    22.0161435
+  ],
+  "United States\nEpsom": [
+    43.223191,
+    -71.332169
+  ],
+  "The DoughnutHubble RoadCheltenham": [
+    null,
+    null
+  ],
+  "Country Estonia": [
+    39.9749663,
+    -0.0766274
+  ],
+  "Ageo": [
+    35.9774082,
+    139.5930504
+  ],
+  "Universal City": [
+    34.1419225,
+    -118.358411
+  ],
+  "No. 40, York Street Colombo 01, Colombo": [
+    null,
+    null
+  ],
+  "Country\u00a0Dominican Republic": [
+    18.4361545,
+    -69.4203127
+  ],
+  "Rishon LeZion": [
+    31.9747693,
+    34.778334
+  ],
+  "10202 West Washington Boulevard": [
+    34.0198913,
+    -118.400659
+  ],
+  "Telegraph Bay": [
+    22.2584342,
+    114.1269589
+  ],
+  "CountryBrazil": [
+    null,
+    null
+  ],
+  "New Delhi": [
+    28.6430858,
+    77.2192671
+  ],
+  "Upper Saddle River": [
+    41.0585352,
+    -74.0984769
+  ],
+  "Country Colombia": [
+    4.6288025,
+    -74.0653024
+  ],
+  "Burford": [
+    51.8081927,
+    -1.6358183
+  ],
+  "Murray Hill": [
+    40.7481574,
+    -73.97875
+  ],
+  "Pevensey Bay": [
+    50.8176698,
+    0.3431985
+  ],
+  "2747 E. Camelback Road": [
+    33.509574,
+    -112.0226762
+  ],
+  "Country Canada": [
+    38.6752399,
+    -0.8099623
+  ],
+  "1683 Walnut Grove Avenue": [
+    37.3369023,
+    -121.9342912
+  ],
+  "India13\u00b02\u20327\u2033N 77\u00b034\u203216\u2033E\ufeff / \ufeff13.03528\u00b0N 77.57111\u00b0E\ufeff / 13.03528; 77.57111": [
+    null,
+    null
+  ],
+  "4000 Warner Boulevard": [
+    34.1488722,
+    -118.3376298
+  ],
+  "Washington Bellevue": [
+    47.6144219,
+    -122.192337
+  ],
+  "One Astor Plaza": [
+    -38.9272837,
+    -69.195304
+  ],
+  "Country of origin\u00a0United States": [
+    null,
+    null
+  ],
+  "Country Sri Lanka": [
+    6.8995498,
+    79.9058487
+  ]
+}
