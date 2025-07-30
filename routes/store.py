@@ -5,9 +5,8 @@ from typing import List, Optional
 from models.store import StoreCreate, StoreModel
 import motor.motor_asyncio
 import os
-import logging
 
-logger = logging.getLogger("uvicorn.access")
+from logger import logger  
 
 MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017/games_db")
 client = motor.motor_asyncio.AsyncIOMotorClient(MONGO_URI)

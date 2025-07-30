@@ -1,0 +1,4 @@
+2025-07-30 00:53:31,073 - INFO - POST /stores - Creating store: string
+2025-07-30 00:53:31,687 - INFO - Store created with id: 6889973b35369c7dc05d8728
+2025-07-30 00:54:53,368 - INFO - POST /platforms - Creating platform: string
+2025-07-30 00:54:53,550 - INFO - Platform created with id: 6889978d0274a1c8885a3fb9

@@ -4,9 +4,8 @@ from typing import List, Optional
 from models.plataform import PlatformCreate, PlatformModel
 import motor.motor_asyncio
 import os
-import logging
 
-logger = logging.getLogger("uvicorn.access")
+from logger import logger  
 
 MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017/games_db")
 client = motor.motor_asyncio.AsyncIOMotorClient(MONGO_URI)
@@ -57,6 +56,8 @@ async def filtrar_plataformas(
     skip: int = Query(0, ge=0),
     limit: int = Query(10, ge=1, le=100)
 ):
+    logger.info(f"GET /platforms/filtrar - nome={nome} ano_inicio={ano_inicio} ano_fim={ano_fim} skip={skip} limit={limit}")
+
     query = {}
     if nome:
         query["name"] = {"$regex": nome, "$options": "i"}
@@ -70,6 +71,8 @@ async def filtrar_plataformas(
     cursor = collection.find(query).skip(skip).limit(limit)
     async for doc in cursor:
         platforms.append(PlatformModel(**doc))
+
+    logger.info(f"Returned {len(platforms)} platforms out of {total} for filter")
 
     return PaginatedPlatformResponse(
         total=total,
