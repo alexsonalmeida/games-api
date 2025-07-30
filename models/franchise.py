@@ -3,11 +3,10 @@ from typing import Any, List, Optional
 from pydantic import BaseModel, Field
 from pydantic_core import core_schema
 from pydantic.json_schema import JsonSchemaValue
-from pydantic_core.core_schema import GetCoreSchemaHandler, GetJsonSchemaHandler
 
 class PyObjectId(ObjectId):
     @classmethod
-    def __get_pydantic_core_schema__(cls, _source_type: Any, _handler: GetCoreSchemaHandler) -> core_schema.CoreSchema:
+    def __get_pydantic_core_schema__(cls, source_type, handler):
         return core_schema.no_info_plain_validator_function(cls.validate)
 
     @classmethod
@@ -17,7 +16,7 @@ class PyObjectId(ObjectId):
         return ObjectId(v)
 
     @classmethod
-    def __get_pydantic_json_schema__(cls, _core_schema: core_schema.CoreSchema, _handler: GetJsonSchemaHandler) -> JsonSchemaValue:
+    def __get_pydantic_json_schema__(cls, core_schema, handler):
         return {"type": "string", "example": "60f7f9b8f9d3b8a0a8d8f8f8"}
 
 class FranchiseCreate(BaseModel):
@@ -28,7 +27,7 @@ class FranchiseCreate(BaseModel):
     owner: Optional[str] = None
     image_url: Optional[str] = None
     famous: bool = False
-    games: List[PyObjectId]
+    games: List[str] = []
 
 class FranchiseModel(FranchiseCreate):
     id: PyObjectId = Field(default_factory=PyObjectId, alias="_id")
