@@ -75,3 +75,34 @@ slug
     For further information visit https://errors.pydantic.dev/2.11/v/missing
 2025-07-30 11:15:41,600 - INFO - Returned 3 games out of 4 for filter
 2025-07-30 11:15:50,663 - INFO - GET /games/count - Total: 4
+2025-07-30 15:04:40,227 - INFO - GET /creators - skip=0 limit=10
+2025-07-30 15:04:40,234 - INFO - Returned 10 creators out of 280
+2025-07-30 15:07:11,690 - INFO - GET /creators - skip=0 limit=10
+2025-07-30 15:07:11,694 - INFO - Returned 10 creators out of 280
+2025-07-30 15:09:14,509 - INFO - GET /developers - skip=0 limit=10
+2025-07-30 15:12:04,313 - INFO - GET /creators - skip=0 limit=10
+2025-07-30 15:12:04,323 - INFO - Returned 10 creators out of 280
+2025-07-30 15:12:57,772 - INFO - GET /developers - skip=0 limit=10
+2025-07-30 15:14:42,487 - INFO - GET /developers - skip=0 limit=10
+2025-07-30 15:14:42,506 - INFO - Returned 10 developers out of 7198
+2025-07-30 15:15:44,844 - INFO - GET /games - skip=0 limit=10
+2025-07-30 15:15:44,851 - INFO - Returned 10 valid games out of 1600
+2025-07-30 15:18:56,934 - INFO - GET /games - skip=0 limit=10
+2025-07-30 15:18:56,944 - INFO - Returned 10 valid games out of 1600
+2025-07-30 15:20:55,158 - INFO - GET /stores - skip=0 limit=10
+2025-07-30 15:23:26,972 - INFO - GET /stores - skip=0 limit=10
+2025-07-30 15:23:26,978 - INFO - Returned 10 stores out of 10
+2025-07-30 15:24:11,428 - INFO - GET /developers - skip=0 limit=10
+2025-07-30 15:24:11,433 - INFO - Returned 0 developers out of 0
+2025-07-30 15:24:43,719 - INFO - GET /developers - skip=0 limit=10
+2025-07-30 15:24:43,729 - INFO - Returned 10 developers out of 7198
+2025-07-30 15:25:51,659 - INFO - GET /platforms - skip=0 limit=10
+2025-07-30 15:28:03,859 - INFO - GET /platforms - skip=0 limit=10
+2025-07-30 15:28:03,868 - INFO - Returned 10 platforms out of 51
+2025-07-30 15:44:30,888 - INFO - GET /franchise - skip=0 limit=10
+2025-07-30 15:44:30,894 - INFO - Returned 10 franchises out of 26
+2025-07-30 15:51:15,680 - INFO - GET /game_stats - skip=0 limit=10
+2025-07-30 15:51:58,734 - INFO - GET /game_stats - skip=0 limit=10
+2025-07-30 15:52:11,151 - INFO - GET /game_stats - skip=0 limit=10
+2025-07-30 15:53:02,653 - INFO - GET /game_stats - skip=0 limit=10
+2025-07-30 15:53:02,665 - INFO - Returned 10 game stats out of 29

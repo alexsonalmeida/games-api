@@ -6,7 +6,7 @@ import motor.motor_asyncio
 import os
 from logger import logger  
 
-MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017/games_db")
+MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017/gamesdb")
 client = motor.motor_asyncio.AsyncIOMotorClient(MONGO_URI)
 db = client.get_database()
 collection = db["games"]
