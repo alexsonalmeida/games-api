@@ -1,4 +1,5 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Request
+import time
 from fastapi.middleware.cors import CORSMiddleware
 from routes.creator import router as creator_router
 from routes.developer import router as developer_router
@@ -10,6 +11,26 @@ from routes.store import router as store_router
 from routes.franchise import router as franchise_router
 from routes.game_stats import router as game_stats_router
 from routes.consultas_complexas import router as consultas_complexas_router
+from logger import logger
+
+app = FastAPI()
+
+@app.middleware("http")
+async def log_requests(request: Request, call_next):
+    start_time = time.time()
+
+    logger.info(f"{request.method} {request.url.path} - Client: {request.client.host}")
+
+    try:
+        response = await call_next(request)
+    except Exception as e:
+        logger.error(f"Erro durante requisição {request.method} {request.url.path}: {str(e)}")
+        raise e
+
+    duration = time.time() - start_time
+    logger.info(f"{request.method} {request.url.path} - Status: {response.status_code} - Tempo: {duration:.4f}s")
+
+    return response
 
 app = FastAPI()
 

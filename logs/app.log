@@ -106,3 +106,18 @@ slug
 2025-07-30 15:52:11,151 - INFO - GET /game_stats - skip=0 limit=10
 2025-07-30 15:53:02,653 - INFO - GET /game_stats - skip=0 limit=10
 2025-07-30 15:53:02,665 - INFO - Returned 10 game stats out of 29
+2025-07-30 14:48:31,384 - INFO - GET /creators - skip=0 limit=10
+2025-07-30 14:48:33,248 - INFO - Returned 0 creators out of 0
+2025-07-30 14:48:55,905 - INFO - GET /games - skip=0 limit=10
+2025-07-30 14:48:56,336 - INFO - Returned 0 valid games out of 0
+2025-07-30 14:49:02,514 - INFO - GET /games/count - Total: 0
+2025-07-30 14:50:46,431 - INFO - POST /creators - Creating creator: string
+2025-07-30 14:50:48,392 - INFO - Creator created with ID: 688a5b767fdd262ff2d71ef9
+2025-07-30 14:57:22,060 - INFO - Middleware log: recebendo requisição
+2025-07-30 14:57:22,061 - INFO - GET /creators - skip=0 limit=10
+2025-07-30 14:57:22,882 - INFO - Returned 1 creators out of 1
+2025-07-30 14:57:22,883 - INFO - Middleware log: resposta pronta
+2025-07-30 14:58:18,796 - INFO - GET /creators/ - Client: 127.0.0.1
+2025-07-30 14:58:18,798 - INFO - GET /creators - skip=0 limit=10
+2025-07-30 14:58:18,846 - INFO - Returned 1 creators out of 1
+2025-07-30 14:58:18,847 - INFO - GET /creators/ - Status: 200 - Tempo: 0.0502s
